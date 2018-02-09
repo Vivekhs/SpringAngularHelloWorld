@@ -1,0 +1,20 @@
+<html>
+	<body>
+		<h3>Hi Adrian, you have a new suggested podcast!</h3>
+		<p>
+			From - ${emp.getName()}}
+		</p>
+		<h3>
+			Podcast metadataline
+		</h3>
+		<p>
+		
+		</p>
+		<h3>
+			With the message
+		</h3>
+		<p>
+		</p>
+	</body>
+
+</html>
